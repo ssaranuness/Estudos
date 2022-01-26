@@ -1,0 +1,27 @@
+Estudando sobre o POO:
+
+Programação Orientada a Objetos.
+
+-É um paradigma de desenvolvimento utilizado massivamente na maioria dos sistemas atuais.
+
+-Suportada por uma infinidade de linguagens 
+
+-Orientação Objetos- Representa cada elemento do mundo real para um objeto.
+
+
+
+
+4 Pilares da POO:
+
+
+1- Herança - É a capacidade de um objeto ser idealizado baseando em olutro objeto;
+
+2- Polimorfismo - É a capacidade de um obejto que sejam compatíveis se passar por outro em determinadas circunstâncias;
+
+3- Encapsulamento - É a capacidade de esconder detalhes da emplementação do objeto, expondo só o que deve ser acessado 
+publicamente;
+
+4- Abstração - Representa um objeto de uma forma abstrata que seja obrigatoriamente herdado por  outras classes.
+
+
+Fonte: Código Fonte TV 

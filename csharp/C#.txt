@@ -1,0 +1,24 @@
+Estudando sobre o C#:
+
+Entendendo e conhecendo essa linguagem de programação.
+
+
+-C# é uma linguagem de programação que é usada dentro do ambiente de desenvolvimento.net microsoft,
+ uma das linguagens de hoje mais usadas.
+
+-C# é utilizado em diversos tipos de projetos diferentes, podendo utilizar o c# no desenvolvimento web, 
+mobile Iot, jogos.
+
+-Linguagem utilizada no back-and.
+
+-Uma linguagem de programação multiparadigma desenvolvida pela Microsoft como parte da plataforma dot.net.
+Permite criar app robustos e seguros que podem ser utilizados nos computadores ou no dispositivos móveis.
+
+-C# é a linguagem base para o desenvolvimento para uma das maiores plataformas de criação de jogos - Unity.
+
+-Visal Studio é utilizado para desenvolvimento em C# que já possui o C# e das bibliotecas do dot.net
+
+
+Fonte: Código Fonte TV 
+
+

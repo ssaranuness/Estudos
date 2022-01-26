@@ -1,0 +1,25 @@
+Estudando sobre ED:
+
+ED - Estrutura de dados.
+
+A estrutura de dados nada mais é que a organização de dados na memória
+de um computador ou de um dispositivo de armazenamento.
+
+Utilizamos a estrutura de dados para basicamente realizar operações como:
+-Inserir, excluir ou localizaar em registro, percorrer todos os registros e classificar todos
+os registros em uma ordem pré-determinada.
+
+
+
+Estrutura de dados:
+
+Array - Consiste em Armazenar uma coleção de elementos do mesmo tipo. É a mais simples de dados para 
+armazenamento em memória.
+Array também é conhecido como Vetor que trabalha com estruturas Unidimensionais e 
+Matrix que trabalha estrututas Multidimensionais.
+
+Pilha - É uma coleção ordenada de itens baseada no princípio LIFO
+
+Árvore - É uma coleção não ordenada de itens.
+
+Fonte: Código Fonte TV 

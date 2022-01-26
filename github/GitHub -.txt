@@ -1,0 +1,20 @@
+Estudando sobre GitHub:
+
+O GitHub é uma plataforma de hospedagem de repositórios Git além de servir como uma grande
+rede social que junta milhões de desenvolvedores do mundo em discursões de software
+
+-É fundamental que todo desenvolvedor conheça github.
+
+-O GitHub é a maior comunidade de código aberto do mundo, com muitos repositórios
+e membros.
+-O GitHub pertence a Microsoft desde 2018.
+
+-O local que vai centralizar o seu repositório Git, hospedando na nuvem permitindo 
+que outras pessoas possam realizar essas mesmas operações nesse repositório.
+
+-Onde a "mágica" do compartilhamento de código acontece, nele o código é centralizado 
+permitindo que outras pessoas possam fazer cópias, alterações e enviar suas próprias
+versões com alterações para o dono do repositório avaliar e incluir ou não no projeto.
+
+
+Fonte: Código Fonte TV 

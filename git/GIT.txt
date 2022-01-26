@@ -1,0 +1,15 @@
+Estudando sobre o Git:
+
+Git é o sistema de versionamento que mantém os arquivos integros e permite 
+realizar operações de recuperação e alterações deles, sempre mantendo cópia de
+todas essas modificações realizadas.
+
+O Git registra as mudanças que ocorrem no código fonte de um projeto permitindo
+que os arquivos possam ser alterados de forma simultânea por inumeras pessoas sem 
+precisar se preocupar que essas alterações sobrescritas umas pelas outras.
+
+Caso haja algum problema em uma alteração do código fonte de forma fácil e rápida pode 
+se restaurar a versão anterior.
+
+
+Fonte: Código Fonte TV 

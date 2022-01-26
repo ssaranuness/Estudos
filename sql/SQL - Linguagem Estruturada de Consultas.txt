@@ -1,0 +1,31 @@
+Estudando sobre SQL:
+
+SQL - Linguagem estruturada de consultas.
+
+-É uma linguagem padrão criada para operação em banco de dados.
+
+É uma linguagem antida, porém, muito utilizada atualmente.
+
+
+Os principais sistemas de gerenciadores de banco de dados relacionais que utilizam o SQL são:
+
+-SQLSever;
+-MySQL;
+-Oracle;
+-MariaDB;
+-PostgreSQL;
+-SQlite;
+-Informix;
+-SyBase;
+-Microsoft access.
+
+Com o SQL é possível:
+-Inserir, excluir, alterar, selecionar, visualizar, 
+ordenar, juntar, mesclar e intercalar os registros. 
+-Inserir, remover, estabelecer relações entre as tabelas;
+-Importar ou exportar dados entre as bases de dados;
+Criar chaves primarias, restrições e também chaves estrangeiras;
+-Gerenciar os usuários com as suas permissões de acesso.
+
+
+Fonte: Código Fonte TV 
